@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+A very basic Reaction time checker made in htnl css and javascript for testing your Reaction Time 
